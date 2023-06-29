@@ -182,8 +182,6 @@
         "https://i.dummyjson.com/data/products/10/thumbnail.jpeg"
       ]
     },
-   ],
-  "total": 20,
-  "skip": 0,
-  "limit": 20
+   ]
+
 }
