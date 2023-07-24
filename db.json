@@ -131,24 +131,24 @@
     },
     {
       "id": 8,
-      "title": "Fancy hand clutch",
-      "description": "This fashion is designed to add a charming effect to your casual outfit. This Bag is made of synthetic leather.",
-      "price": 44,
-      "discountPercentage": 10.39,
-      "rating": 4.18,
-      "stock": 101,
-      "brand": "Bracelet",
-      "category": "womens-bags",
-      "thumbnail": "https://i.dummyjson.com/data/products/73/thumbnail.jpg",
+      "title": "Crystal chandelier maria theresa for 12 light",
+      "description": "Crystal chandelier maria theresa for 12 light",
+      "price": 47,
+      "discountPercentage": 16,
+      "rating": 4.74,
+      "stock": 133,
+      "brand": "YIOSI",
+      "category": "lighting",
+      "thumbnail": "https://i.dummyjson.com/data/products/100/thumbnail.jpg",
       "images": [
-        "https://i.dummyjson.com/data/products/73/1.jpg",
-        "https://i.dummyjson.com/data/products/73/2.webp",
-        "https://i.dummyjson.com/data/products/73/3.jpg",
-        "https://i.dummyjson.com/data/products/73/thumbnail.jpg"
+        "https://i.dummyjson.com/data/products/100/1.jpg",
+        "https://i.dummyjson.com/data/products/100/2.jpg",
+        "https://i.dummyjson.com/data/products/100/3.jpg",
+        "https://i.dummyjson.com/data/products/100/thumbnail.jpg"
       ]
     },
     {
-       "id": 85,
+       "id": 9,
       "title": "LouisWill Men Sunglasses",
       "description": "LouisWill Men Sunglasses Polarized Sunglasses UV400 Sunglasses Day Night Dual Use Safety Driving Night Vision Eyewear AL-MG Frame Sun Glasses with Free Box for Drivers",
       "price": 50,
