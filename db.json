@@ -40,7 +40,7 @@
       ]
     },
     {
-    "id": 65,
+    "id": 3,
       "title": "Stainless Steel Wrist Watch",
       "description": "Stylish Watch For Man (Luxury) Classy Men's Stainless Steel Wrist Watch - Box Packed",
       "price": 47,
@@ -78,22 +78,22 @@
       ]
     },
     {
-     "id": 5,
-      "title": "NIGHT SUIT",
-      "description": "NIGHT SUIT RED MICKY MOUSE..  For Girls. Fantastic Suits.",
-      "price": 55,
-      "discountPercentage": 15.05,
-      "rating": 4.65,
-      "stock": 21,
-      "brand": "RED MICKY MOUSE..",
-      "category": "womens-dresses",
-      "thumbnail": "https://i.dummyjson.com/data/products/41/thumbnail.webp",
+    "id": 5,
+      "title": "formal offices shoes",
+      "description": "Pattern Type: Solid, Material: PU, Toe Shape: Pointed Toe ,Outsole Material: Rubber",
+      "price": 57,
+      "discountPercentage": 12,
+      "rating": 4.41,
+      "stock": 68,
+      "brand": "The Warehouse",
+      "category": "mens-shoes",
+      "thumbnail": "https://i.dummyjson.com/data/products/58/thumbnail.jpg",
       "images": [
-        "https://i.dummyjson.com/data/products/41/1.jpg",
-        "https://i.dummyjson.com/data/products/41/2.webp",
-        "https://i.dummyjson.com/data/products/41/3.jpg",
-        "https://i.dummyjson.com/data/products/41/4.jpg",
-        "https://i.dummyjson.com/data/products/41/thumbnail.webp"
+        "https://i.dummyjson.com/data/products/58/1.jpg",
+        "https://i.dummyjson.com/data/products/58/2.jpg",
+        "https://i.dummyjson.com/data/products/58/3.jpg",
+        "https://i.dummyjson.com/data/products/58/4.jpg",
+        "https://i.dummyjson.com/data/products/58/thumbnail.jpg"
       ]
     },
     {
