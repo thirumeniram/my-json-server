@@ -22,22 +22,23 @@
       ]
     },
     {
-     "id": 2,
-      "title": "perfume Oil",
-      "description": "Mega Discount, Impression of Acqua Di Gio by GiorgioArmani concentrated attar perfume Oil",
+    "id": 2,
+      "title": "Fog Scent Xpressio Perfume",
+      "description": "Product details of Best Fog Scent Xpressio Perfume 100ml For Men cool long lasting perfumes for Men",
       "price": 13,
-      "discountPercentage": 8.4,
-      "rating": 4.26,
-      "stock": 65,
-      "brand": "Impression of Acqua Di Gio",
+      "discountPercentage": 8.14,
+      "rating": 4.59,
+      "stock": 61,
+      "brand": "Fog Scent Xpressio",
       "category": "fragrances",
-      "thumbnail": "https://i.dummyjson.com/data/products/11/thumbnail.jpg",
+      "thumbnail": "https://i.dummyjson.com/data/products/13/thumbnail.webp",
       "images": [
-        "https://i.dummyjson.com/data/products/11/1.jpg",
-        "https://i.dummyjson.com/data/products/11/2.jpg",
-        "https://i.dummyjson.com/data/products/11/3.jpg",
-        "https://i.dummyjson.com/data/products/11/thumbnail.jpg"
-      ]
+        "https://i.dummyjson.com/data/products/13/1.jpg",
+        "https://i.dummyjson.com/data/products/13/2.png",
+        "https://i.dummyjson.com/data/products/13/3.jpg",
+        "https://i.dummyjson.com/data/products/13/4.jpg",
+        "https://i.dummyjson.com/data/products/13/thumbnail.webp"
+      
     },
     {
     "id": 3,
@@ -59,22 +60,21 @@
       ]
     },
     {
-      "id": 4,
-      "title": "Mornadi Velvet Bed",
-      "description": "Mornadi Velvet Bed Base with Headboard Slats Support Classic Style Bedroom Furniture Bed Set",
-      "price": 40,
-      "discountPercentage": 17,
-      "rating": 4.16,
-      "stock": 140,
-      "brand": "Furniture Bed Set",
-      "category": "furniture",
-      "thumbnail": "https://i.dummyjson.com/data/products/31/thumbnail.jpg",
+     "id": 4,
+      "title": "MacBook Pro",
+      "description": "MacBook Pro 2021 with mini-LED display may launch between September, November",
+      "price": 1749,
+      "discountPercentage": 11.02,
+      "rating": 4.57,
+      "stock": 83,
+      "brand": "Apple",
+      "category": "laptops",
+      "thumbnail": "https://i.dummyjson.com/data/products/6/thumbnail.png",
       "images": [
-        "https://i.dummyjson.com/data/products/31/1.jpg",
-        "https://i.dummyjson.com/data/products/31/2.jpg",
-        "https://i.dummyjson.com/data/products/31/3.jpg",
-        "https://i.dummyjson.com/data/products/31/4.jpg",
-        "https://i.dummyjson.com/data/products/31/thumbnail.jpg"
+        "https://i.dummyjson.com/data/products/6/1.png",
+        "https://i.dummyjson.com/data/products/6/2.jpg",
+        "https://i.dummyjson.com/data/products/6/3.png",
+        "https://i.dummyjson.com/data/products/6/4.jpg"
       ]
     },
     {
